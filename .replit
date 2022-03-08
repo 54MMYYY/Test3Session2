@@ -1,2 +1,2 @@
-language = "c"
-run = "pwd"
+language = "undefined"
+run = ""
